@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/React-Newsadda_blogs_updated/static/css/main.99f25381.css",
+    "main.js": "/React-Newsadda_blogs_updated/static/js/main.f0fd3281.js",
+    "index.html": "/React-Newsadda_blogs_updated/index.html",
+    "main.99f25381.css.map": "/React-Newsadda_blogs_updated/static/css/main.99f25381.css.map",
+    "main.f0fd3281.js.map": "/React-Newsadda_blogs_updated/static/js/main.f0fd3281.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.99f25381.css",
+    "static/js/main.f0fd3281.js"
+  ]
+}
